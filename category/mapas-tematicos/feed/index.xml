@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mapas temáticos &#8211; Portifólio de trabalhos em geoprocessamento</title>
+	<atom:link href="https://DanielMCosta.github.io/category/mapas-tematicos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://DanielMCosta.github.io/</link>
+	<description></description>
+	<lastBuildDate>Mon, 24 Jan 2022 23:40:49 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+	<item>
+		<title>Alocação de empreendimentos &#8211; Açaiteria na região noroeste de BH</title>
+		<link>https://DanielMCosta.github.io/alocacao-de-empreendimentos-acaiteria-na-regiao-noroeste-de-bh/</link>
+		
+		<dc:creator><![CDATA[DanielMCosta]]></dc:creator>
+		<pubDate>Mon, 24 Jan 2022 23:32:58 +0000</pubDate>
+				<category><![CDATA[Análise Ambiental]]></category>
+		<category><![CDATA[Geomarketing]]></category>
+		<category><![CDATA[Mapas temáticos]]></category>
+		<guid isPermaLink="false">https://DanielMCosta.github.io/portifolio/?p=13</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra eros ante, et fermentum velit volutpat a. Nunc varius a sem in cursus. Maecenas tincidunt eu ipsum ac pellentesque. Quisque venenatis elementum feugiat. Proin vitae tortor vehicula, bibendum justo posuere, tempor risus. Morbi molestie justo et justo aliquam, nec accumsan orci lacinia. Aliquam gravida vestibulum eros non sodales. Nulla condimentum luctus fermentum. In id viverra ex. Curabitur massa ante, condimentum<div class="read-more"><a class="btn read-more-btn" href="https://DanielMCosta.github.io/alocacao-de-empreendimentos-acaiteria-na-regiao-noroeste-de-bh/">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra eros ante, et fermentum velit volutpat a. Nunc varius a sem in cursus. Maecenas tincidunt eu ipsum ac pellentesque. Quisque venenatis elementum feugiat. Proin vitae tortor vehicula, bibendum justo posuere, tempor risus. Morbi molestie justo et justo aliquam, nec accumsan orci lacinia. Aliquam gravida vestibulum eros non sodales. Nulla condimentum luctus fermentum.</p>
+
+
+
+<p>In id viverra ex. Curabitur massa ante, condimentum sit amet felis id, gravida luctus nibh. Morbi pharetra urna ut leo placerat, ut pellentesque elit posuere. Maecenas vehicula sed massa nec vulputate. Aliquam erat volutpat. Morbi laoreet quis nisl in hendrerit. Quisque congue sapien sed nisl suscipit sollicitudin. Sed euismod massa quis purus viverra, et pulvinar est venenatis.</p>
+
+
+
+<p>Suspendisse sagittis tellus sit amet ex viverra, eget interdum augue ullamcorper. Phasellus et egestas mauris. Curabitur nec dui viverra, lobortis velit vitae, volutpat lacus. Integer convallis dolor vel lorem auctor, ut tempus nisi finibus. Nullam sagittis magna non semper finibus. Phasellus ut ornare justo, et vestibulum lectus. Praesent efficitur velit viverra, fermentum augue a, pretium purus. Suspendisse sit amet lobortis lacus. Aenean purus justo, feugiat eu luctus vel, condimentum vel nisl. Duis vitae volutpat risus. Quisque fermentum ornare lacinia.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
